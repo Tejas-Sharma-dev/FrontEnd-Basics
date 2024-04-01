@@ -1,9 +1,7 @@
-# Movie Seat Booking Application
+# FrontEnd-Basics
 
-This movie seat booking application is built with HTML, CSS, and JavaScript.
-It demonstrates proficiency in manipulating DOM elements using JavaScript to create an interactive seat selection interface.
-Users can visually choose their seats, and the application updates dynamically to reflect their selections.
+This Repository contain projects developed purely on HTML, CSS, JS
+feel free to fork the repository and suggestion are always welcome.
 
-feel free to fork, or suggest changes
+#### Happy Coding 🧑🏼‍💻
 
-Happy Coding!!!
