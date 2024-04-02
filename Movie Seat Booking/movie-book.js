@@ -96,11 +96,11 @@ function addSeats(seatNo) {
     seat.classList = 'selectedSeat';
     seat.textContent = seatNo;
     SeatHolderEle.appendChild(seat);
-    console.log(SeatHolderEle.lastElementChild);
+    // console.log(SeatHolderEle.lastElementChild);
 }
 
 function removeSeat() {
-    console.log(SeatHolderEle.lastElementChild);
+    // console.log(SeatHolderEle.lastElementChild);
     SeatHolderEle.lastElementChild.remove();
     IsSelectedSeatEmpty();
 }
